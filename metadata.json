@@ -1,0 +1,5 @@
+{
+  "name": "VisionKey: Video Background Remover",
+  "description": "Professional-grade video background removal tool featuring AI-powered segmentation and classic Chroma Key (Green Screen) processing.",
+  "requestFramePermissions": []
+}
